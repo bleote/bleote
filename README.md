@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruno Leote</h1>
+<h1 align="center">Hi, I'm Bruno Leote</h1>
 <h3 align="center">Full Stack Developer, living in Barcelona, Spain</h3>
 
 - 📫 How to reach me **b.leote@gmail.com**
