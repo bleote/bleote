@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bruno Leote</h1>
 <h3 align="center">A Full Stack Developer from Brazil, living in Barcelona, Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bleote" alt="bleote" /></a> </p>
-
 - 📫 How to reach me **b.leote@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bruno-leote/](https://www.linkedin.com/in/bruno-leote/)
