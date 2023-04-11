@@ -5,6 +5,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bruno-leote/](https://www.linkedin.com/in/bruno-leote/)
 
+- 📱 Visit our group's final project from boot camp, a shop safely app, designed for mobile: https://www.watsontool.me/ 
+
 - ⚡ Fun fact **I'm a big fan of board sports, F1, and football**
 
 <h3 align="left">Connect with me:</h3>
