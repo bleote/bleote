@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm Bruno Leote</h1>
 <h3 align="center">Full Stack Developer, living in Barcelona, Spain</h3>
 
-- 📫 How to reach me **b.leote@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/bruno-leote/](https://www.linkedin.com/in/bruno-leote/)
+- 📖 Currently learning React
 
 - 📱 Visit our group's final project from boot camp, a shop safely app designed for mobile: https://www.watsontool.me/ 
 
-- ⚡ Fun fact **I'm a big fan of board sports, F1, and football**
+- 😄 Fun fact **I'm a big fan of board sports, F1, and football**
+
+- 📫 How to reach me **b.leote@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/bruno-leote/](https://www.linkedin.com/in/bruno-leote/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
