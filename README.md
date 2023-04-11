@@ -3,7 +3,7 @@
 
 - 📖 Currently learning: React
 
-- 📱 Visit our group's final project from boot camp, a shop safely app designed for mobile: https://www.watsontool.me/ 
+- 📱 Visit our group's final project from boot camp, a shop safely app (MVP) designed for mobile: https://www.watsontool.me/ 
 
 - 😄 Fun facts: **I'm a big fan of board sports, F1, and football**
 
