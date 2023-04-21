@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bruno Leote</h1>
 <h3 align="center">Full Stack Developer, living in Barcelona, Spain</h3>
 
-- 📖 Currently learning: React.js
+- 📖 Currently doing: Working on a side project for my portfolio and learning React.js
 
 - 📱 Visit our group's final project from boot camp, a shop safely app (MVP) designed for mobile: https://www.watsontool.me/ 
 
