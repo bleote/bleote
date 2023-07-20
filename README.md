@@ -7,8 +7,6 @@
 
 - 📱 Visit our group's final project from boot camp, a shop safely app (MVP) designed for mobile: https://www.watsontool.me/ 
 
-- 😄 Fun facts: **I'm a big fan of board sports, F1, and football**
-
 - 📫 How to reach me: **b.leote@gmail.com**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/bruno-leote/](https://www.linkedin.com/in/bruno-leote/)
