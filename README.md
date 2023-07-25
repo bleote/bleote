@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bruno Leote</h1>
 <h3 align="center">Full Stack Developer, living in Barcelona, Spain</h3>
 
-- 📖 Getting ready to start classes to learn C# and Unity
+- 📖 Learning C# and Unity
 
 - 🏎️ Experience the excitement of managing F1 teams in the dynamic world of Overtake Racing Manager! (solo project): http://overtakeracingmanager.com/ 
 
