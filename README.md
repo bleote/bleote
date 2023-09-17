@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Bruno Leote</h1>
 <h3 align="center">Game Developer, living in Barcelona, Spain</h3>
 
-- 🎮 <a href="https://bleote.itch.io/ultra-brick" target="_blank">Ultra Brick</a>. A 2D platform game developed with C# and Unity: 
+* 🎮 <a href="https://bleote.itch.io/ultra-brick" target="_blank">Ultra Brick</a> - A 2D platform game, for Desktop, developed with C# and Unity.
 
-- 🏎️ Experience the excitement of managing F1 teams in the dynamic world of Overtake Racing Manager! (solo project): http://overtakeracingmanager.com/ 
+* 🏎️ <a href="https://overtake.osc-fr1.scalingo.io" target="_blank">Overtake Racing Manager</a> - Experience the excitement of managing F1 teams in the dynamic world of Overtake Racing Manager! (for Mobile and Desktop).
 
-- 📱 Visit our group's final project from boot camp, a shop safely app (MVP) designed for mobile: https://www.watsontool.me/ 
+* 📱 <a href="https://www.watsontool.me/" target="_blank">Watson Tool</a> - Visit our group's final project from boot camp, a shop-safe app (MVP) designed for mobile.
 
-- 📫 How to reach me: **b.leote@gmail.com**
+* 📫 How to reach me: **b.leote@gmail.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/bruno-leote/](https://www.linkedin.com/in/bruno-leote/)
+* 📄 Know about my experiences: [https://www.linkedin.com/in/bruno-leote/](https://www.linkedin.com/in/bruno-leote/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
