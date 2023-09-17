@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bruno Leote</h1>
 <h3 align="center">Game Developer, living in Barcelona, Spain</h3>
 
-- 🎮 Ultra Brick. A 2D platform game developed with C# and Unity: https://bleote.itch.io/ultra-brick
+- 🎮 Ultra Brick. A 2D platform game developed with C# and Unity: <a href="https://bleote.itch.io/ultra-brick" target="_blank" rel="noreferrer"></a>
 
 - 🏎️ Experience the excitement of managing F1 teams in the dynamic world of Overtake Racing Manager! (solo project): http://overtakeracingmanager.com/ 
 
