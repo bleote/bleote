@@ -5,7 +5,7 @@
 
 * 🎮 <a href="https://bleote.itch.io/ultra-brick" target="_blank">Ultra Brick</a> - 2D platform game, for Desktop, developed with C# and Unity.
 
-* 🏎️ <a href="https://overtake.osc-fr1.scalingo.io" target="_blank">Overtake Racing Manager</a> - Experience the excitement of managing F1 teams in the dynamic world of Overtake Racing Manager! (for Mobile and Desktop).
+* 🏎️ <a href="https://overtake.osc-fr1.scalingo.io" target="_blank">Overtake Racing Manager</a> - Experience the excitement of managing F1 teams in the dynamic world of Overtake Racing Manager! (for Mobile and Desktop)
 
 * 📱 <a href="https://www.watsontool.me/" target="_blank">Watson Tool</a> - Visit our group's final project from boot camp, a shop-safe app (MVP) designed for mobile.
 
