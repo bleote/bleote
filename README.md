@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bruno-leote/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-leote/" height="30" width="40" /></a>
-<a href="https://bleote.itch.io/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/14803619?s=200&v=4" alt="https://bleote.itch.io/" height="30" width="40" /></a>
+<a href="https://bleote.itch.io/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/14803619?s=200&v=4" alt="https://bleote.itch.io/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
