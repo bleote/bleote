@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Bruno Leote</h1>
 <h3 align="center">Game Developer, living in Barcelona, Spain</h3>
 
+* 🐺 <a href="https://bleote.itch.io/jack-brown-werewolf" target="_blank">Jack Brown Werewolf</a> - Jack Brown Werewolf is a horror-inspired 2D platformer where you must survive an attack of skeletons that came back from the dead (Desktop only).
+
 * 🎖️ <a href="https://bleote.itch.io/mike-mike-dogfight" target="_blank">Mike-Mike Dogfight</a> - 2D Shoot 'Em Up game, for Desktop, developed with C# and Unity.
 
 * 🎮 <a href="https://bleote.itch.io/ultra-brick" target="_blank">Ultra Brick</a> - 2D platform game, for Desktop, developed with C# and Unity.
