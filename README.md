@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Bruno Leote</h1>
 <h3 align="center">Game Developer, living in Barcelona, Spain</h3>
 
-* 🐺 <a href="https://bleote.itch.io/jack-brown-werewolf" target="_blank">Jack Brown Werewolf</a> - Jack Brown Werewolf is a horror-inspired 2D platformer where you must survive an attack of skeletons that came back from the dead (Desktop only).
+* 🐺 <a href="https://bleote.itch.io/jack-brown-werewolf" target="_blank">Jack Brown Werewolf</a> - Jack Brown Werewolf is a horror-inspired 2D platformer where you must survive an attack of skeletons that came back from the dead.
 
-* 🎖️ <a href="https://bleote.itch.io/mike-mike-dogfight" target="_blank">Mike-Mike Dogfight</a> - 2D Shoot 'Em Up game, for Desktop, developed with C# and Unity.
+* 🎖️ <a href="https://bleote.itch.io/mike-mike-dogfight" target="_blank">Mike-Mike Dogfight</a> - 2D Shoot 'Em Up game, developed with C# and Unity.
 
-* 🎮 <a href="https://bleote.itch.io/ultra-brick" target="_blank">Ultra Brick</a> - 2D platform game, for Desktop, developed with C# and Unity.
+* 🎮 <a href="https://bleote.itch.io/ultra-brick" target="_blank">Ultra Brick</a> - 2D platform game, developed with C# and Unity.
 
-* 🏎️ <a href="https://overtake.osc-fr1.scalingo.io" target="_blank">Overtake Racing Manager</a> - Experience the excitement of managing F1 teams in the dynamic world of Overtake Racing Manager! (for Mobile and Desktop)
+* 🏎️ <a href="https://overtake.osc-fr1.scalingo.io" target="_blank">Overtake Racing Manager</a> - Experience the excitement of managing F1 teams in the dynamic world of Overtake Racing Manager! (for Mobile and Desktop).
 
-* 📱 <a href="https://www.watsontool.me/" target="_blank">Watson Tool</a> - Visit our group's final project from boot camp, a shop-safe app (MVP) designed for mobile.
+* 📱 <a href="https://www.watsontool.me/" target="_blank">Watson Tool</a> - Visit our group's final project from boot camp, a shop-safe app (MVP) designed for mobile, but it's also functional on Desktop.
 
 * 📫 How to reach me: **b.leote@gmail.com**
 
