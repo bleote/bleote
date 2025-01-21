@@ -4,9 +4,9 @@
 
 * 😺🍦 <a href="https://play.google.com/store/apps/details?id=com.Luxlupi.FeedTheCat" target="_blank">Feed The Cat</a> - Step into the magical world of Sundae Skies, and meet Scoop, your charming feline companion with a love for ice cream and a mission to melt her frozen world. ⭐5k+ downloads on Google Store⭐
 
-* 🐺 <a href="https://bleote.itch.io/jack-brown-werewolf" target="_blank">Jack Brown Werewolf</a> - Jack Brown Werewolf is a horror-inspired 2D platformer where you must survive an attack of skeletons that came back from the dead.
+* 🛩️🎖️ <a href="https://play.google.com/store/apps/details?id=com.Luxlupi.MMDogfight" target="_blank">Mike-Mike Dogfight</a> - Mike-Mike Dogfight is an action-packed shoot'em-up arcade-style, developed for mobile with C# and Unity.
 
-* 🎖️ <a href="https://bleote.itch.io/mike-mike-dogfight" target="_blank">Mike-Mike Dogfight</a> - 2D Shoot 'Em Up game, developed with C# and Unity.
+* 🐺 <a href="https://bleote.itch.io/jack-brown-werewolf" target="_blank">Jack Brown Werewolf</a> - Jack Brown Werewolf is a horror-inspired 2D platformer where you must survive an attack of skeletons that came back from the dead.
 
 * 🎮 <a href="https://bleote.itch.io/ultra-brick" target="_blank">Ultra Brick</a> - 2D platform game, developed with C# and Unity.
 
