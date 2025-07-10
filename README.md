@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bruno Leote</h1>
-<h3 align="center">Back-End / Game Developer, living in Barcelona, Spain</h3>
+<h3 align="center">Software Developer / Game Developer, living in Barcelona, Spain</h3>
 
 
 * 😺🍦 <a href="https://play.google.com/store/apps/details?id=com.Luxlupi.FeedTheCat" target="_blank">Feed The Cat</a> - Step into the magical world of Sundae Skies, and meet Scoop, your charming feline companion with a love for ice cream and a mission to melt her frozen world. ⭐5k+ downloads on Google Store⭐
